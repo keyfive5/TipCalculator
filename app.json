@@ -47,6 +47,12 @@
       ],
       "expo-font",
       "expo-localization"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "42df58af-9cd2-417c-bd70-a080ecd87808"
+      }
+    },
+    "owner": "keyfive"
   }
 }
