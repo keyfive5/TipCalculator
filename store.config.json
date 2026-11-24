@@ -1,0 +1,73 @@
+{
+  "configVersion": 0,
+  "apple": {
+    "copyright": "2026 keyfive5",
+    "categories": [
+      "FINANCE",
+      "UTILITIES"
+    ],
+    "info": {
+      "en-US": {
+        "title": "Tipwise: Tip & Split",
+        "subtitle": "Split the bill to the cent",
+        "promoText": "The calm, beautiful way to tip and split. No ads, no tracking, no account — just the right number, fast.",
+        "description": "Tipwise is the tip calculator you'll actually enjoy using.\n\nType the bill on a big, satisfying keypad and Tipwise instantly shows what everyone pays — tip, total and each person's share, down to the last cent.\n\nSPLIT IT FAIRLY\n• Split between any number of people.\n• When a bill doesn't divide evenly, Tipwise tells you exactly who pays the extra cent — so the total always adds up.\n• Round up with one tap so everyone pays a clean number. Tipwise shows the real tip percentage that results.\n\nTIP YOUR WAY\n• One-tap quick tips: 15, 18, 20, 22 and 25% — or set your own.\n• Swipe the tip ruler to any percentage, with a crisp haptic click at every step.\n• Tip before tax: enter the receipt total and Tipwise removes the sales tax before calculating the tip.\n\nMADE FOR EVERYWHERE\n• Automatically uses your local currency, or pick from 27 currencies.\n• Handles currencies without cents, like the Japanese yen.\n• Gorgeous in light and dark mode.\n\nTHOUGHTFUL DETAILS\n• Share the breakdown with friends in one tap.\n• Remembers your tip, party size and preferences.\n• VoiceOver labels on every control.\n• Works offline.\n\nPRIVATE BY DESIGN\nNo ads. No tracking. No account. Tipwise never collects any data — your numbers never leave your phone.",
+        "keywords": [
+          "tipping",
+          "gratuity",
+          "bill",
+          "check",
+          "restaurant",
+          "calculator",
+          "dinner",
+          "group",
+          "service",
+          "percent",
+          "waiter",
+          "friends",
+          "share"
+        ],
+        "releaseNotes": "Welcome to Tipwise.",
+        "supportUrl": "https://github.com/keyfive5/TipCalculator/issues",
+        "marketingUrl": "https://github.com/keyfive5/TipCalculator",
+        "privacyPolicyUrl": "https://github.com/keyfive5/TipCalculator/blob/main/PRIVACY.md",
+        "screenshots": {
+          "APP_IPHONE_67": [
+            "store/screenshots/01-split.png",
+            "store/screenshots/02-ruler.png",
+            "store/screenshots/03-roundup.png",
+            "store/screenshots/04-settings.png",
+            "store/screenshots/05-light.png"
+          ]
+        }
+      }
+    },
+    "advisory": {
+      "alcoholTobaccoOrDrugUseOrReferences": "NONE",
+      "contests": "NONE",
+      "gamblingSimulated": "NONE",
+      "horrorOrFearThemes": "NONE",
+      "matureOrSuggestiveThemes": "NONE",
+      "medicalOrTreatmentInformation": "NONE",
+      "profanityOrCrudeHumor": "NONE",
+      "sexualContentGraphicAndNudity": "NONE",
+      "sexualContentOrNudity": "NONE",
+      "violenceCartoonOrFantasy": "NONE",
+      "violenceRealistic": "NONE",
+      "violenceRealisticProlongedGraphicOrSadistic": "NONE",
+      "gambling": false,
+      "unrestrictedWebAccess": false,
+      "gunsOrOtherWeapons": "NONE",
+      "lootBox": false,
+      "advertising": false,
+      "ageAssurance": false,
+      "healthOrWellnessTopics": false,
+      "messagingAndChat": false,
+      "parentalControls": false,
+      "userGeneratedContent": false
+    },
+    "release": {
+      "automaticRelease": true
+    }
+  }
+}

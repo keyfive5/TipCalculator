@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Tipwise",
+    "slug": "tipwise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0E0D0B",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.keyfive5.tipwise",
+      "buildNumber": "1",
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "infoPlist": {
+        "CFBundleDisplayName": "Tipwise"
+      }
+    },
+    "android": {
+      "package": "com.keyfive5.tipwise",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0D0B",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Tipwise",
+      "backgroundColor": "#0E0D0B"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#F4EEE3",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 120,
+          "dark": {
+            "image": "./assets/splash-icon.png",
+            "backgroundColor": "#0E0D0B"
+          }
+        }
+      ],
+      "expo-font",
+      "expo-localization"
+    ]
+  }
+}
