@@ -7,7 +7,9 @@
     "development": {
       "developmentClient": false,
       "distribution": "internal",
-      "ios": { "simulator": true }
+      "ios": {
+        "simulator": true
+      }
     },
     "preview": {
       "distribution": "internal"
@@ -20,7 +22,12 @@
   "submit": {
     "production": {
       "ios": {
-        "metadataPath": "./store.config.json"
+        "metadataPath": "./store.config.json",
+        "appleTeamId": "D934ZZD92G",
+        "ascAppId": "6838940291",
+        "ascApiKeyIssuerId": "c46619e9-74be-420a-aaeb-746a63af1a11",
+        "ascApiKeyId": "SVTXG8P9K9",
+        "ascApiKeyPath": "./AuthKey_SVTXG8P9K9.p8"
       }
     }
   }

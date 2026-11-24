@@ -10,7 +10,6 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.keyfive5.tipwise",
-      "buildNumber": "1",
       "config": {
         "usesNonExemptEncryption": false
       },
