@@ -43,3 +43,5 @@ yarn-error.*
 # local tooling
 design/.tmp/
 .claude/settings.local.json
+credentials.json
+credentials/
